@@ -1,0 +1,23 @@
+1.Soru :Ýþlemciler ne iþe yarar kýsaca açýklayýn. (15 puan )
+Cevabýnýz : iþlem yapar
+------------------------------------
+2.Soru :Depolama aygýtý nedir ?  (15 puan )
+Cevabýnýz : depolamaya yarar
+------------------------------------
+3.Soru :Çözünürlük nedir ? Ekran Çözünürlüðüne örnek veriniz. (10 puan )
+Cevabýnýz : 1920
+------------------------------------
+4.Soru :Windows iþletim sisteminde Denetim Masasýnda yer alan Sistem seçeneði ne iþe yarar? (20 puan )
+Cevabýnýz : mustafa onur
+------------------------------------
+5.Soru :Mikroiþlemci nedir ve hýzýný etkileyen faktörler nelerdir ? (15 puan )
+Cevabýnýz : sýcaklik
+------------------------------------
+6.Soru :Giriþ çýkýþ aygýtlarý nelerdir ve ne için kullanýlýr ? (20 puan )
+Cevabýnýz : mause klavye fare
+------------------------------------
+7.Soru :Süper Bilgisayar nedir ? (15 puan )
+Cevabýnýz : bilhidayarýn superi
+------------------------------------
+
+ Toplam Sýnav Puaný :110

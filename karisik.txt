@@ -1,0 +1,43 @@
+1.Soru :3.5 GB = ..... Mb (20 puan )
+Cevabýnýz : 3500
+------------------------------------
+2. Soru :Bilgisayarýn her türlü bilgi ve dökümanýn geçici olarak saklandýðý depolama birimi hangisidir ? (15 puan )
+A) Harddisk 
+B) Ram
+C) Modem
+D) SSD
+Isaretlediginiz Sik :c
+Dogru Cevap :B
+------------------------------------
+3. Soru :Aþaðýdakilerden hangisi bir iþletim sistemi deðildir ? (15 puan )
+A) Ubuntu
+B) Linux
+C) Windows
+D) ACM OS
+Isaretlediginiz Sik :c
+Dogru Cevap :D
+------------------------------------
+4. Soru :java programlama dilinde yazýlan bir kaynak programýn uzantýsý nedir ? (15 puan )
+A) .asm
+B) .exe
+C) .java
+D) .class
+Isaretlediginiz Sik :b
+Dogru Cevap :C
+------------------------------------
+5. Soru :Klavye dili hangi kýsayol tuþu ile deðiþir ? (10 puan )
+A) Ctrl + K
+B) Ctrl +L
+C) Shift+K
+D) Ctrl+Shift
+Isaretlediginiz Sik :d
+Dogru Cevap :D
+------------------------------------
+6.Soru :Bilgisayarda kullanýlan bellek tipleri RAM ve ROM belleklerdir  (15 puan )
+Cevabýnýz : doðru
+------------------------------------
+7.Soru :Süper Bilgisayar nedir ? (15 puan )
+Cevabýnýz : süperdir
+------------------------------------
+
+ Toplam Sýnav Puaný :105

@@ -1,0 +1,16 @@
+1.Soru :Bilgisayarýn fiziksel parçalarýna genel olarak hangi ad verilir ? (15 puan )
+A) Kasa
+B) Yazýlým 
+C) Donaným
+D) Modem
+Isaretlediginiz Sik :c
+Dogru Cevap :C
+------------------------------------
+2.Soru :java dili günümüzde hangi firma tarafýndan geliþtirilmektedir ?  (15 puan )
+A) microsoft 
+B) oracle
+C) ýeee
+D) Sun System 
+Isaretlediginiz Sik :b
+Dogru Cevap :B
+------------------------------------
